@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranger-23
+- 👋 Hi, I’m @József 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 
